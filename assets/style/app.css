@@ -1,0 +1,29 @@
+.body {
+  min-width: 2000px;
+}
+.navbar {
+  background: fixed;
+  background-color: #EB3991;
+}
+.home {
+  background: linear-gradient(#F2B8D8 0%, #EDA3CA 40%, #FF6699);
+}
+#about {
+  background: linear-gradient(#EDA3CA 0%, #F2B8D8 40%, #FF6699);
+}
+#contact {
+  background: linear-gradient(#F2B8D8 0%, #EDA3CA 40%, #FF6699);
+}
+.profileImage {
+  width: 200px;
+}
+.btn {
+  background-color: #EB3991;
+}
+.footer {
+  background-color: #FF6699;
+  font-size: large;
+}
+section {
+  padding-top: 100px;
+}
